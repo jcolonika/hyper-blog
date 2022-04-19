@@ -3,4 +3,6 @@ Esta es la historia de Jairo Colón
 Jairo tiene 36 años y nació en Colombia de Jairo
 además es bailarín profesional y profesor de clases grupales.
 
-Hoy hablaremos de su historia
+Hoy hablaremos de su vida,
+En 2021 retomo la programación y actualmente
+trabaja como desarrollador frontend.
